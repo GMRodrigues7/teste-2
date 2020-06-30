@@ -1,0 +1,32 @@
+#tabela{
+    width: 600px;
+    font-size: 12px;
+    font-family: Arial;
+    text-align: center;
+    background-color: #C7E7F3;
+}
+
+#titulo1{
+    background-color: #0D5188;
+    color: white;
+    font-weight: bold;
+}
+
+#titulo2{
+    background-color: #66C5E3;
+    font-weight: bold;
+}
+
+.pos{
+    background-color: silver;
+    width: 10%;
+}
+
+.pop{
+    width: 15%;
+}
+
+.cidades{
+    color: #0D5188;
+    font-weight: bold;
+}
